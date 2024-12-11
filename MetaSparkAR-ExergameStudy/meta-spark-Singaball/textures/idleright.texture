@@ -1,0 +1,40 @@
+{
+  "modelName": "texture",
+  "name": "idleright",
+  "identifier": "texture:339000-6109e66f-2a3d-4578-9d85-f3ef1a0ef2da",
+  "alphaPremultiplicationMode": "should_premultiply",
+  "assetDataHash": "99a505153869c4f3067f4762463bc3e4",
+  "assetLocator": "textures/idleright.png",
+  "colorEncoding": "linear",
+  "compressionQuality": "high",
+  "coordMapping": "none",
+  "excludeDuringExport": false,
+  "excludeFromPackage": false,
+  "exportConfigurations": [
+    "textureExportConfig:3839629-9a244f48-be91-464a-82df-b1d272ee75a4",
+    "textureExportConfig:3839631-9a244f48-be91-464a-82df-b1d272ee75a4"
+  ],
+  "filter": "bilinear",
+  "hasOfflineMipmaps": false,
+  "height": 417,
+  "importIssues": {},
+  "isExternalAsset": true,
+  "smartTextureTargetSizeLimit": "largest",
+  "targetSize": "largest",
+  "uWrapMode": "clamp",
+  "vWrapMode": "clamp",
+  "width": 324,
+  "children": [
+    {
+      "modelName": "data_texture_metadata_model",
+      "name": "data_texture_metadata_model0",
+      "assetDataHash": "99a505153869c4f3067f4762463bc3e4",
+      "colorCount": 6206,
+      "detectedAlphaChannel": "eight_bit_full_range",
+      "detectedOriginalFormat": "png",
+      "entropyOfDistribution": 4.966357977346677,
+      "pixelsHigh": 417,
+      "pixelsWide": 324
+    }
+  ]
+}

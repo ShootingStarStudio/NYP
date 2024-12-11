@@ -1,0 +1,36 @@
+{
+  "modelName": "texture",
+  "name": "Blank",
+  "identifier": "texture:125641-db0dc388-4bd0-43eb-b7db-22402c85dd13",
+  "alphaPremultiplicationMode": "should_premultiply",
+  "assetDataHash": "38691abb45ba95a92df856da77096c9c",
+  "assetLocator": "textures/Blank.png",
+  "colorEncoding": "linear",
+  "compressionQuality": "high",
+  "coordMapping": "none",
+  "excludeDuringExport": false,
+  "excludeFromPackage": false,
+  "filter": "bilinear",
+  "hasOfflineMipmaps": false,
+  "height": 1024,
+  "importIssues": {},
+  "isExternalAsset": true,
+  "smartTextureTargetSizeLimit": "largest",
+  "targetSize": "largest",
+  "uWrapMode": "clamp",
+  "vWrapMode": "clamp",
+  "width": 909,
+  "children": [
+    {
+      "modelName": "data_texture_metadata_model",
+      "name": "data_texture_metadata_model0",
+      "assetDataHash": "38691abb45ba95a92df856da77096c9c",
+      "colorCount": 1,
+      "detectedAlphaChannel": "one_bit",
+      "detectedOriginalFormat": "png",
+      "entropyOfDistribution": 0,
+      "pixelsHigh": 1024,
+      "pixelsWide": 909
+    }
+  ]
+}

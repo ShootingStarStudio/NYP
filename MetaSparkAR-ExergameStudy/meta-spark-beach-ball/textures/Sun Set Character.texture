@@ -1,0 +1,36 @@
+{
+  "modelName": "texture",
+  "name": "Sun Set Character",
+  "identifier": "texture:470415-1b7ad1f1-1e99-4a77-a1a9-58d48211f8e3",
+  "alphaPremultiplicationMode": "should_premultiply",
+  "assetDataHash": "1d1cfa32637701cb1f22f263d2f68294",
+  "assetLocator": "textures/Sun Set Character.png",
+  "colorEncoding": "linear",
+  "compressionQuality": "high",
+  "coordMapping": "none",
+  "excludeDuringExport": false,
+  "excludeFromPackage": false,
+  "filter": "bilinear",
+  "hasOfflineMipmaps": false,
+  "height": 512,
+  "importIssues": {},
+  "isExternalAsset": true,
+  "smartTextureTargetSizeLimit": "largest",
+  "targetSize": "largest",
+  "uWrapMode": "clamp",
+  "vWrapMode": "clamp",
+  "width": 512,
+  "children": [
+    {
+      "modelName": "data_texture_metadata_model",
+      "name": "data_texture_metadata_model0",
+      "assetDataHash": "1d1cfa32637701cb1f22f263d2f68294",
+      "colorCount": 5713,
+      "detectedAlphaChannel": "eight_bit_full_range",
+      "detectedOriginalFormat": "png",
+      "entropyOfDistribution": 3.2569982648964793,
+      "pixelsHigh": 512,
+      "pixelsWide": 512
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "modelName": "texture",
+  "name": "BrickHeart",
+  "identifier": "texture:6347530-2f458b2a-3f73-4f9f-89e5-ecf9ba025aa8",
+  "alphaPremultiplicationMode": "should_premultiply",
+  "assetDataHash": "e91af5546045056769f40ff47b7303a0",
+  "assetLocator": "textures/BrickHeart.png",
+  "colorEncoding": "linear",
+  "compressionQuality": "high",
+  "coordMapping": "none",
+  "excludeDuringExport": false,
+  "excludeFromPackage": false,
+  "filter": "bilinear",
+  "hasOfflineMipmaps": false,
+  "height": 171,
+  "importIssues": {},
+  "isExternalAsset": true,
+  "smartTextureTargetSizeLimit": "largest",
+  "targetSize": "largest",
+  "uWrapMode": "clamp",
+  "vWrapMode": "clamp",
+  "width": 190,
+  "children": [
+    {
+      "modelName": "data_texture_metadata_model",
+      "name": "data_texture_metadata_model0",
+      "assetDataHash": "e91af5546045056769f40ff47b7303a0",
+      "colorCount": 2344,
+      "detectedAlphaChannel": "eight_bit_full_range",
+      "detectedOriginalFormat": "png",
+      "entropyOfDistribution": 5.162935709376692,
+      "pixelsHigh": 171,
+      "pixelsWide": 190
+    }
+  ]
+}

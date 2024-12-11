@@ -1,0 +1,68 @@
+{
+  "modelName": "texture",
+  "name": "Heads_Instruction_Right",
+  "identifier": "texture:143675-0087d636-5f4c-49e8-b5b2-5b239fcb8141",
+  "alphaPremultiplicationMode": "should_premultiply",
+  "assetDataHash": "6fc7287d67c9401fbd2ba818088507d1",
+  "assetLocator": "textures/Heads_Instruction_Right.png",
+  "colorEncoding": "linear",
+  "compressionQuality": "high",
+  "coordMapping": "none",
+  "excludeDuringExport": false,
+  "excludeFromPackage": false,
+  "filter": "bilinear",
+  "hasOfflineMipmaps": false,
+  "height": 480,
+  "importIssues": {},
+  "isExternalAsset": true,
+  "sequenceFramesTextureIdentifiers": [
+    "subTexture:143729-0087d636-5f4c-49e8-b5b2-5b239fcb8141",
+    "subTexture:143731-0087d636-5f4c-49e8-b5b2-5b239fcb8141"
+  ],
+  "smartTextureTargetSizeLimit": "largest",
+  "targetSize": "largest",
+  "uWrapMode": "clamp",
+  "vWrapMode": "clamp",
+  "width": 960,
+  "children": [
+    {
+      "modelName": "subTexture",
+      "name": "Heads_Instruction_Right_0",
+      "identifier": "subTexture:143729-0087d636-5f4c-49e8-b5b2-5b239fcb8141",
+      "height": 1,
+      "isRotated": false,
+      "trimOffsetX": 0,
+      "trimOffsetY": 0,
+      "trimScaleX": 1,
+      "trimScaleY": 1,
+      "width": 0.5,
+      "x": 0,
+      "y": 0
+    },
+    {
+      "modelName": "subTexture",
+      "name": "Heads_Instruction_Right_1",
+      "identifier": "subTexture:143731-0087d636-5f4c-49e8-b5b2-5b239fcb8141",
+      "height": 1,
+      "isRotated": false,
+      "trimOffsetX": 0,
+      "trimOffsetY": 0,
+      "trimScaleX": 1,
+      "trimScaleY": 1,
+      "width": 0.5,
+      "x": 0.5,
+      "y": 0
+    },
+    {
+      "modelName": "data_texture_metadata_model",
+      "name": "data_texture_metadata_model0",
+      "assetDataHash": "6fc7287d67c9401fbd2ba818088507d1",
+      "colorCount": 2869,
+      "detectedAlphaChannel": "eight_bit_full_range",
+      "detectedOriginalFormat": "png",
+      "entropyOfDistribution": 1.8595782668981853,
+      "pixelsHigh": 480,
+      "pixelsWide": 960
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "modelName": "texture",
+  "name": "ui_gloveright",
+  "identifier": "texture:6520448-e3472da2-a889-4868-98ef-6ac68f17004f",
+  "alphaPremultiplicationMode": "should_premultiply",
+  "assetDataHash": "bb4e53cd867a74263f1502b971cffe81",
+  "assetLocator": "textures/ui_gloveright.png",
+  "colorEncoding": "linear",
+  "compressionQuality": "high",
+  "coordMapping": "none",
+  "excludeDuringExport": false,
+  "excludeFromPackage": false,
+  "filter": "bilinear",
+  "hasOfflineMipmaps": false,
+  "height": 512,
+  "importIssues": {},
+  "isExternalAsset": true,
+  "smartTextureTargetSizeLimit": "largest",
+  "targetSize": "largest",
+  "uWrapMode": "clamp",
+  "vWrapMode": "clamp",
+  "width": 512,
+  "children": [
+    {
+      "modelName": "data_texture_metadata_model",
+      "name": "data_texture_metadata_model0",
+      "assetDataHash": "bb4e53cd867a74263f1502b971cffe81",
+      "colorCount": 505,
+      "detectedAlphaChannel": "eight_bit_full_range",
+      "detectedOriginalFormat": "png",
+      "entropyOfDistribution": 1.6804891654563252,
+      "pixelsHigh": 512,
+      "pixelsWide": 512
+    }
+  ]
+}

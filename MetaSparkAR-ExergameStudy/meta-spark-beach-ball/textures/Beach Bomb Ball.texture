@@ -1,0 +1,36 @@
+{
+  "modelName": "texture",
+  "name": "Beach Bomb Ball",
+  "identifier": "texture:79835-b7fa2cc0-77da-4bfa-85a9-27915b4b5cd8",
+  "alphaPremultiplicationMode": "should_premultiply",
+  "assetDataHash": "46e242e850879f62456a07f0f51c24ee",
+  "assetLocator": "textures/Beach Bomb Ball.png",
+  "colorEncoding": "linear",
+  "compressionQuality": "high",
+  "coordMapping": "none",
+  "excludeDuringExport": false,
+  "excludeFromPackage": false,
+  "filter": "bilinear",
+  "hasOfflineMipmaps": false,
+  "height": 512,
+  "importIssues": {},
+  "isExternalAsset": true,
+  "smartTextureTargetSizeLimit": "largest",
+  "targetSize": "largest",
+  "uWrapMode": "clamp",
+  "vWrapMode": "clamp",
+  "width": 512,
+  "children": [
+    {
+      "modelName": "data_texture_metadata_model",
+      "name": "data_texture_metadata_model0",
+      "assetDataHash": "46e242e850879f62456a07f0f51c24ee",
+      "colorCount": 6123,
+      "detectedAlphaChannel": "eight_bit_full_range",
+      "detectedOriginalFormat": "png",
+      "entropyOfDistribution": 4.130037722614306,
+      "pixelsHigh": 512,
+      "pixelsWide": 512
+    }
+  ]
+}

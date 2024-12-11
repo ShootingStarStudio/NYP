@@ -1,0 +1,36 @@
+{
+  "modelName": "texture",
+  "name": "Distance",
+  "identifier": "texture:79879-b7fa2cc0-77da-4bfa-85a9-27915b4b5cd8",
+  "alphaPremultiplicationMode": "should_premultiply",
+  "assetDataHash": "718f3046feee7e3728c6073c8745a7d1",
+  "assetLocator": "textures/Distance.png",
+  "colorEncoding": "linear",
+  "compressionQuality": "high",
+  "coordMapping": "none",
+  "excludeDuringExport": false,
+  "excludeFromPackage": false,
+  "filter": "bilinear",
+  "hasOfflineMipmaps": false,
+  "height": 512,
+  "importIssues": {},
+  "isExternalAsset": true,
+  "smartTextureTargetSizeLimit": "largest",
+  "targetSize": "largest",
+  "uWrapMode": "clamp",
+  "vWrapMode": "clamp",
+  "width": 512,
+  "children": [
+    {
+      "modelName": "data_texture_metadata_model",
+      "name": "data_texture_metadata_model0",
+      "assetDataHash": "718f3046feee7e3728c6073c8745a7d1",
+      "colorCount": 1031,
+      "detectedAlphaChannel": "eight_bit_full_range",
+      "detectedOriginalFormat": "png",
+      "entropyOfDistribution": 1.683152251596141,
+      "pixelsHigh": 512,
+      "pixelsWide": 512
+    }
+  ]
+}

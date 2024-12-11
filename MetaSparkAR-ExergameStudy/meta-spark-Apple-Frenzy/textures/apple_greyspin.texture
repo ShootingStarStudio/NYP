@@ -1,0 +1,36 @@
+{
+  "modelName": "texture",
+  "name": "apple_greyspin",
+  "identifier": "texture:154068-ad65872f-8ade-48ea-9094-c614d552e95b",
+  "alphaPremultiplicationMode": "should_premultiply",
+  "assetDataHash": "f1526db1e9f02e127842f43754b2c0fe",
+  "assetLocator": "textures/apple_greyspin.png",
+  "colorEncoding": "linear",
+  "compressionQuality": "high",
+  "coordMapping": "none",
+  "excludeDuringExport": false,
+  "excludeFromPackage": false,
+  "filter": "bilinear",
+  "hasOfflineMipmaps": false,
+  "height": 800,
+  "importIssues": {},
+  "isExternalAsset": true,
+  "smartTextureTargetSizeLimit": "largest",
+  "targetSize": "largest",
+  "uWrapMode": "clamp",
+  "vWrapMode": "clamp",
+  "width": 800,
+  "children": [
+    {
+      "modelName": "data_texture_metadata_model",
+      "name": "data_texture_metadata_model0",
+      "assetDataHash": "f1526db1e9f02e127842f43754b2c0fe",
+      "colorCount": 923,
+      "detectedAlphaChannel": "eight_bit_full_range",
+      "detectedOriginalFormat": "png",
+      "entropyOfDistribution": 2.7060580222231447,
+      "pixelsHigh": 800,
+      "pixelsWide": 800
+    }
+  ]
+}

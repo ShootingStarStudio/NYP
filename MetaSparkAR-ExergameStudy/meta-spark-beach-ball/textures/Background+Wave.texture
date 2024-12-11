@@ -1,0 +1,36 @@
+{
+  "modelName": "texture",
+  "name": "Background+Wave",
+  "identifier": "texture:2191152-117de1a8-3dd5-4251-9501-202696ce1a8b",
+  "alphaPremultiplicationMode": "should_premultiply",
+  "assetDataHash": "fb2fce3a9df358059416bd737a8ef1e1",
+  "assetLocator": "textures/Background+Wave(1).png",
+  "colorEncoding": "linear",
+  "compressionQuality": "high",
+  "coordMapping": "none",
+  "excludeDuringExport": false,
+  "excludeFromPackage": false,
+  "filter": "bilinear",
+  "hasOfflineMipmaps": false,
+  "height": 256,
+  "importIssues": {},
+  "isExternalAsset": true,
+  "smartTextureTargetSizeLimit": "largest",
+  "targetSize": "largest",
+  "uWrapMode": "clamp",
+  "vWrapMode": "clamp",
+  "width": 128,
+  "children": [
+    {
+      "modelName": "data_texture_metadata_model",
+      "name": "data_texture_metadata_model0",
+      "assetDataHash": "fb2fce3a9df358059416bd737a8ef1e1",
+      "colorCount": 592,
+      "detectedAlphaChannel": "eight_bit_full_range",
+      "detectedOriginalFormat": "png",
+      "entropyOfDistribution": 4.061039000754919,
+      "pixelsHigh": 256,
+      "pixelsWide": 128
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+Name,Remarks,Test_Length,Old_PreTest,Old_MidTest,Old_PostTest,Young_PreTest,Young_MidTest,Young_PostTest
+Demographic ,,8,Yes,No,No,Yes,No,No
+Intergroup Anxiety ,,11,Yes,Yes,Yes,Yes,Yes,Yes
+Intergroup Attitude ,,10,Yes,Yes,Yes,Yes,Yes,Yes
+Exercise Self-regulation Questionnaire ,Find a different scale to measure intention to exercise/habit to exercise,16,Yes,Yes,Yes,Yes,Yes,Yes
+Revised UCLA Loneliness Scale ,Replace with UCLA-3,6,Yes,Yes,Yes,No,No,No
+EQ-5D-5L; EQ-VAS,Replace with WHO-5,6,Yes,Yes,Yes,No,No,No
+CES-D-10 ,Remove,10,Yes,Yes,Yes,No,No,No
+Purpose in life ,Remove,7,Yes,Yes,Yes,No,No,No
+Ambivalent Ageism Scale ,"Add the Youngism scale (Francioli & North, 2021)",13,No,No,No,Yes,Yes,Yes
+Post-test interview ,Modify these question to capture qualitative data on exergames and intergen bonding ,8,No,No,Yes,No,No,Yes
+,add item/scales on intergenerational bonding / quality of interaction,,74,66,74,58,50,58
+,"add open-ended question to ask impression of the other person (e.g., 3 adjective) ",,,,,,,
+MoE_Tier1_Study2_Surveys.docx,,,,,,,,

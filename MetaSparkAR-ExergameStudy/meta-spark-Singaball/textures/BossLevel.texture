@@ -1,0 +1,36 @@
+{
+  "modelName": "texture",
+  "name": "BossLevel",
+  "identifier": "texture:162701-270e3755-2cc4-432c-bfc1-b1d4bccb216b",
+  "alphaPremultiplicationMode": "should_premultiply",
+  "assetDataHash": "8c5f588fce216484dd9427a501789abf",
+  "assetLocator": "textures/BossLevel.png",
+  "colorEncoding": "linear",
+  "compressionQuality": "high",
+  "coordMapping": "none",
+  "excludeDuringExport": false,
+  "excludeFromPackage": false,
+  "filter": "bilinear",
+  "hasOfflineMipmaps": false,
+  "height": 288,
+  "importIssues": {},
+  "isExternalAsset": true,
+  "smartTextureTargetSizeLimit": "largest",
+  "targetSize": "largest",
+  "uWrapMode": "clamp",
+  "vWrapMode": "clamp",
+  "width": 512,
+  "children": [
+    {
+      "modelName": "data_texture_metadata_model",
+      "name": "data_texture_metadata_model0",
+      "assetDataHash": "8c5f588fce216484dd9427a501789abf",
+      "colorCount": 22933,
+      "detectedAlphaChannel": "no_alpha",
+      "detectedOriginalFormat": "png",
+      "entropyOfDistribution": 10.897222985607748,
+      "pixelsHigh": 288,
+      "pixelsWide": 512
+    }
+  ]
+}

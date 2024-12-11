@@ -1,0 +1,36 @@
+{
+  "modelName": "texture",
+  "name": "apple_redspinglow",
+  "identifier": "texture:133151-ad65872f-8ade-48ea-9094-c614d552e95b",
+  "alphaPremultiplicationMode": "should_premultiply",
+  "assetDataHash": "69e8de6bbd5ad29b812cbb3b24e1a440",
+  "assetLocator": "textures/apple_redspinglow.png",
+  "colorEncoding": "linear",
+  "compressionQuality": "high",
+  "coordMapping": "none",
+  "excludeDuringExport": false,
+  "excludeFromPackage": false,
+  "filter": "bilinear",
+  "hasOfflineMipmaps": false,
+  "height": 800,
+  "importIssues": {},
+  "isExternalAsset": true,
+  "smartTextureTargetSizeLimit": "largest",
+  "targetSize": "largest",
+  "uWrapMode": "clamp",
+  "vWrapMode": "clamp",
+  "width": 800,
+  "children": [
+    {
+      "modelName": "data_texture_metadata_model",
+      "name": "data_texture_metadata_model0",
+      "assetDataHash": "69e8de6bbd5ad29b812cbb3b24e1a440",
+      "colorCount": 659,
+      "detectedAlphaChannel": "eight_bit_full_range",
+      "detectedOriginalFormat": "png",
+      "entropyOfDistribution": 4.75694561083301,
+      "pixelsHigh": 800,
+      "pixelsWide": 800
+    }
+  ]
+}

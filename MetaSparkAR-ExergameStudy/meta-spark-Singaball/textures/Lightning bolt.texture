@@ -1,0 +1,36 @@
+{
+  "modelName": "texture",
+  "name": "Lightning bolt",
+  "identifier": "texture:893986-4af9b45c-4238-49e0-a7ef-9797417c6d13",
+  "alphaPremultiplicationMode": "should_premultiply",
+  "assetDataHash": "9ef3900b5119057015d7534581d2a743",
+  "assetLocator": "textures/Lightning bolt.png",
+  "colorEncoding": "linear",
+  "compressionQuality": "high",
+  "coordMapping": "none",
+  "excludeDuringExport": false,
+  "excludeFromPackage": false,
+  "filter": "bilinear",
+  "hasOfflineMipmaps": false,
+  "height": 256,
+  "importIssues": {},
+  "isExternalAsset": true,
+  "smartTextureTargetSizeLimit": "largest",
+  "targetSize": "largest",
+  "uWrapMode": "clamp",
+  "vWrapMode": "clamp",
+  "width": 147,
+  "children": [
+    {
+      "modelName": "data_texture_metadata_model",
+      "name": "data_texture_metadata_model0",
+      "assetDataHash": "9ef3900b5119057015d7534581d2a743",
+      "colorCount": 1306,
+      "detectedAlphaChannel": "eight_bit_full_range",
+      "detectedOriginalFormat": "png",
+      "entropyOfDistribution": 3.663926522866239,
+      "pixelsHigh": 256,
+      "pixelsWide": 147
+    }
+  ]
+}

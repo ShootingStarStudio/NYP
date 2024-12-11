@@ -1,0 +1,36 @@
+{
+  "modelName": "texture",
+  "name": "Sun Set Plank",
+  "identifier": "texture:1680498-117de1a8-3dd5-4251-9501-202696ce1a8b",
+  "alphaPremultiplicationMode": "should_premultiply",
+  "assetDataHash": "f283935030a3ade0738cf681189f3b09",
+  "assetLocator": "textures/Sun Set Plank(1).png",
+  "colorEncoding": "linear",
+  "compressionQuality": "high",
+  "coordMapping": "none",
+  "excludeDuringExport": false,
+  "excludeFromPackage": false,
+  "filter": "bilinear",
+  "hasOfflineMipmaps": false,
+  "height": 256,
+  "importIssues": {},
+  "isExternalAsset": true,
+  "smartTextureTargetSizeLimit": "largest",
+  "targetSize": "largest",
+  "uWrapMode": "clamp",
+  "vWrapMode": "clamp",
+  "width": 32,
+  "children": [
+    {
+      "modelName": "data_texture_metadata_model",
+      "name": "data_texture_metadata_model0",
+      "assetDataHash": "f283935030a3ade0738cf681189f3b09",
+      "colorCount": 563,
+      "detectedAlphaChannel": "eight_bit_full_range",
+      "detectedOriginalFormat": "png",
+      "entropyOfDistribution": 6.8603020059136455,
+      "pixelsHigh": 256,
+      "pixelsWide": 32
+    }
+  ]
+}

@@ -1,0 +1,88 @@
+{
+  "modelName": "master3_d_object_model",
+  "name": "singaball_model",
+  "identifier": "master3_d_object_model:162064-03450f5b-f922-4acf-9e2a-672750014e17",
+  "sourceIdentifier": "asset_collection_model:162068-03450f5b-f922-4acf-9e2a-672750014e17",
+  "animationMask": {
+    "position": false,
+    "rotation": false,
+    "scale": false
+  },
+  "cameraVisibility": "back|front",
+  "depth": 0.03999999910593033,
+  "globalScaleFactor": 1,
+  "height": 0.03999999910593033,
+  "hidden": false,
+  "layerIdentifier": "GameObject",
+  "outputVisibility": "preview|capture",
+  "physicsEnabled": false,
+  "tags": [],
+  "transform": {
+    "rx": 0,
+    "ry": 0,
+    "rz": 0,
+    "sx": 1,
+    "sy": 1,
+    "sz": 1,
+    "x": 0,
+    "y": 0,
+    "z": 0
+  },
+  "width": 0.03999999910593033,
+  "children": [
+    {
+      "modelName": "mesh",
+      "name": "pSphere1",
+      "identifier": "mesh:162052-03450f5b-f922-4acf-9e2a-672750014e17",
+      "animationMask": {
+        "position": false,
+        "rotation": false,
+        "scale": false
+      },
+      "cameraVisibility": "back|front",
+      "castShadow": false,
+      "hidden": false,
+      "layerIdentifier": "GameObject",
+      "nodeName": "pSphere1",
+      "numberOfFaces": 480,
+      "outputVisibility": "preview|capture",
+      "physicsEnabled": false,
+      "prefabIdentifier": "gltf:162058-03450f5b-f922-4acf-9e2a-672750014e17",
+      "receiveShadow": false,
+      "renderPass": "main_scene",
+      "tags": [],
+      "transform": {
+        "rx": 0,
+        "ry": 0,
+        "rz": 0,
+        "sx": 1,
+        "sy": 1,
+        "sz": 1,
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "useEmbeddedBlendshapes": false,
+      "children": [
+        {
+          "modelName": "surfaces",
+          "identifier": "surfaces:162054-03450f5b-f922-4acf-9e2a-672750014e17",
+          "children": [
+            {
+              "modelName": "surface",
+              "name": "surface0",
+              "identifier": "surface:162061-03450f5b-f922-4acf-9e2a-672750014e17",
+              "isMaterialIdentifierEnabled": true,
+              "materialIdentifier": "dependent_material_model:162048-03450f5b-f922-4acf-9e2a-672750014e17",
+              "surfaceGroupIdentifier": "162062-03450f5b-f922-4acf-9e2a-672750014e17"
+            }
+          ]
+        },
+        {
+          "modelName": "blend_shapes_model",
+          "identifier": "blend_shapes_model:162056-03450f5b-f922-4acf-9e2a-672750014e17"
+        }
+      ]
+    }
+  ]
+}

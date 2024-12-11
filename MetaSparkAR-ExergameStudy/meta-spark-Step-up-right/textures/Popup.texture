@@ -1,0 +1,36 @@
+{
+  "modelName": "texture",
+  "name": "Popup",
+  "identifier": "texture:147386-04ff1608-32c6-424f-b319-f0cb05c80f04",
+  "alphaPremultiplicationMode": "should_premultiply",
+  "assetDataHash": "6f2513db4aa472f74ceb34a7463e4807",
+  "assetLocator": "textures/Info.png",
+  "colorEncoding": "linear",
+  "compressionQuality": "high",
+  "coordMapping": "none",
+  "excludeDuringExport": false,
+  "excludeFromPackage": false,
+  "filter": "bilinear",
+  "hasOfflineMipmaps": false,
+  "height": 658,
+  "importIssues": {},
+  "isExternalAsset": true,
+  "smartTextureTargetSizeLimit": "largest",
+  "targetSize": "largest",
+  "uWrapMode": "clamp",
+  "vWrapMode": "clamp",
+  "width": 1024,
+  "children": [
+    {
+      "modelName": "data_texture_metadata_model",
+      "name": "data_texture_metadata_model0",
+      "assetDataHash": "6f2513db4aa472f74ceb34a7463e4807",
+      "colorCount": 3508,
+      "detectedAlphaChannel": "eight_bit_full_range",
+      "detectedOriginalFormat": "png",
+      "entropyOfDistribution": 2.1822395589200805,
+      "pixelsHigh": 658,
+      "pixelsWide": 1024
+    }
+  ]
+}

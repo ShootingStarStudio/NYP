@@ -1,0 +1,36 @@
+{
+  "modelName": "texture",
+  "name": "Left dark",
+  "identifier": "texture:345704-6109e66f-2a3d-4578-9d85-f3ef1a0ef2da",
+  "alphaPremultiplicationMode": "should_premultiply",
+  "assetDataHash": "de38e745c469d35cbc32873ee0bb5ae7",
+  "assetLocator": "textures/Left dark.png",
+  "colorEncoding": "linear",
+  "compressionQuality": "high",
+  "coordMapping": "none",
+  "excludeDuringExport": false,
+  "excludeFromPackage": false,
+  "filter": "bilinear",
+  "hasOfflineMipmaps": false,
+  "height": 128,
+  "importIssues": {},
+  "isExternalAsset": true,
+  "smartTextureTargetSizeLimit": "largest",
+  "targetSize": "largest",
+  "uWrapMode": "clamp",
+  "vWrapMode": "clamp",
+  "width": 128,
+  "children": [
+    {
+      "modelName": "data_texture_metadata_model",
+      "name": "data_texture_metadata_model0",
+      "assetDataHash": "de38e745c469d35cbc32873ee0bb5ae7",
+      "colorCount": 969,
+      "detectedAlphaChannel": "eight_bit_full_range",
+      "detectedOriginalFormat": "png",
+      "entropyOfDistribution": 3.949263638057952,
+      "pixelsHigh": 128,
+      "pixelsWide": 128
+    }
+  ]
+}

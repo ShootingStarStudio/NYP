@@ -1,0 +1,36 @@
+{
+  "modelName": "texture",
+  "name": "Healthbarmaterial",
+  "identifier": "texture:1869334-3d20b2e9-4382-4634-8db6-0a0941eef9ee",
+  "alphaPremultiplicationMode": "should_premultiply",
+  "assetDataHash": "df838aeb33900b2d992095edc2c3f4f3",
+  "assetLocator": "textures/Healthbarmaterial.png",
+  "colorEncoding": "linear",
+  "compressionQuality": "high",
+  "coordMapping": "none",
+  "excludeDuringExport": false,
+  "excludeFromPackage": false,
+  "filter": "bilinear",
+  "hasOfflineMipmaps": false,
+  "height": 32,
+  "importIssues": {},
+  "isExternalAsset": true,
+  "smartTextureTargetSizeLimit": "largest",
+  "targetSize": "largest",
+  "uWrapMode": "clamp",
+  "vWrapMode": "clamp",
+  "width": 32,
+  "children": [
+    {
+      "modelName": "data_texture_metadata_model",
+      "name": "data_texture_metadata_model0",
+      "assetDataHash": "df838aeb33900b2d992095edc2c3f4f3",
+      "colorCount": 1,
+      "detectedAlphaChannel": "no_alpha",
+      "detectedOriginalFormat": "png",
+      "entropyOfDistribution": 0,
+      "pixelsHigh": 32,
+      "pixelsWide": 32
+    }
+  ]
+}

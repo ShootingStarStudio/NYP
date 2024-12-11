@@ -1,0 +1,36 @@
+{
+  "modelName": "texture",
+  "name": "Stars_2",
+  "identifier": "texture:150860-be34ab2c-0873-43df-a300-79e1df42e98d",
+  "alphaPremultiplicationMode": "should_premultiply",
+  "assetDataHash": "be662b74b817b5d975258fee15a597ea",
+  "assetLocator": "textures/Stars_2.png",
+  "colorEncoding": "linear",
+  "compressionQuality": "high",
+  "coordMapping": "none",
+  "excludeDuringExport": false,
+  "excludeFromPackage": false,
+  "filter": "bilinear",
+  "hasOfflineMipmaps": false,
+  "height": 512,
+  "importIssues": {},
+  "isExternalAsset": true,
+  "smartTextureTargetSizeLimit": "largest",
+  "targetSize": "largest",
+  "uWrapMode": "clamp",
+  "vWrapMode": "clamp",
+  "width": 512,
+  "children": [
+    {
+      "modelName": "data_texture_metadata_model",
+      "name": "data_texture_metadata_model0",
+      "assetDataHash": "be662b74b817b5d975258fee15a597ea",
+      "colorCount": 705,
+      "detectedAlphaChannel": "eight_bit_full_range",
+      "detectedOriginalFormat": "png",
+      "entropyOfDistribution": 4.875544130789526,
+      "pixelsHigh": 512,
+      "pixelsWide": 512
+    }
+  ]
+}

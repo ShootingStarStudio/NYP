@@ -1,0 +1,36 @@
+{
+  "modelName": "texture",
+  "name": "Hammer",
+  "identifier": "texture:319773-3645b5e4-f7e0-40b9-9937-3415b7879753",
+  "alphaPremultiplicationMode": "should_premultiply",
+  "assetDataHash": "e2671fc6ae620fbbf893206d3dd866ce",
+  "assetLocator": "textures/Hammer.png",
+  "colorEncoding": "linear",
+  "compressionQuality": "high",
+  "coordMapping": "none",
+  "excludeDuringExport": false,
+  "excludeFromPackage": false,
+  "filter": "bilinear",
+  "hasOfflineMipmaps": false,
+  "height": 1024,
+  "importIssues": {},
+  "isExternalAsset": true,
+  "smartTextureTargetSizeLimit": "largest",
+  "targetSize": "largest",
+  "uWrapMode": "clamp",
+  "vWrapMode": "clamp",
+  "width": 636,
+  "children": [
+    {
+      "modelName": "data_texture_metadata_model",
+      "name": "data_texture_metadata_model0",
+      "assetDataHash": "e2671fc6ae620fbbf893206d3dd866ce",
+      "colorCount": 1712,
+      "detectedAlphaChannel": "eight_bit_full_range",
+      "detectedOriginalFormat": "png",
+      "entropyOfDistribution": 3.6259180490239573,
+      "pixelsHigh": 1024,
+      "pixelsWide": 636
+    }
+  ]
+}

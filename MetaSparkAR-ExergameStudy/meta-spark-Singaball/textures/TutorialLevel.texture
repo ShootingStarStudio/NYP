@@ -1,0 +1,36 @@
+{
+  "modelName": "texture",
+  "name": "TutorialLevel",
+  "identifier": "texture:162717-270e3755-2cc4-432c-bfc1-b1d4bccb216b",
+  "alphaPremultiplicationMode": "should_premultiply",
+  "assetDataHash": "14b4cea93a1910a14c8fb4061a17eb4a",
+  "assetLocator": "textures/TutorialLevel.png",
+  "colorEncoding": "linear",
+  "compressionQuality": "high",
+  "coordMapping": "none",
+  "excludeDuringExport": false,
+  "excludeFromPackage": false,
+  "filter": "bilinear",
+  "hasOfflineMipmaps": false,
+  "height": 288,
+  "importIssues": {},
+  "isExternalAsset": true,
+  "smartTextureTargetSizeLimit": "largest",
+  "targetSize": "largest",
+  "uWrapMode": "clamp",
+  "vWrapMode": "clamp",
+  "width": 512,
+  "children": [
+    {
+      "modelName": "data_texture_metadata_model",
+      "name": "data_texture_metadata_model0",
+      "assetDataHash": "14b4cea93a1910a14c8fb4061a17eb4a",
+      "colorCount": 17922,
+      "detectedAlphaChannel": "eight_bit_full_range",
+      "detectedOriginalFormat": "png",
+      "entropyOfDistribution": 10.755824033222018,
+      "pixelsHigh": 288,
+      "pixelsWide": 512
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "modelName": "texture",
+  "name": "SBFBoard",
+  "identifier": "texture:123189-6f9418a7-7b9b-497f-8a1e-a54140770fb0",
+  "alphaPremultiplicationMode": "should_premultiply",
+  "assetDataHash": "addd192ce1169d4fb4c15cb6b4723580",
+  "assetLocator": "textures/SBFBoard.png",
+  "colorEncoding": "linear",
+  "compressionQuality": "high",
+  "coordMapping": "none",
+  "excludeDuringExport": false,
+  "excludeFromPackage": false,
+  "filter": "bilinear",
+  "hasOfflineMipmaps": false,
+  "height": 360,
+  "importIssues": {},
+  "isExternalAsset": true,
+  "smartTextureTargetSizeLimit": "largest",
+  "targetSize": "largest",
+  "uWrapMode": "clamp",
+  "vWrapMode": "clamp",
+  "width": 360,
+  "children": [
+    {
+      "modelName": "data_texture_metadata_model",
+      "name": "data_texture_metadata_model0",
+      "assetDataHash": "addd192ce1169d4fb4c15cb6b4723580",
+      "colorCount": 300,
+      "detectedAlphaChannel": "eight_bit_full_range",
+      "detectedOriginalFormat": "png",
+      "entropyOfDistribution": 0.7323872291099193,
+      "pixelsHigh": 360,
+      "pixelsWide": 360
+    }
+  ]
+}

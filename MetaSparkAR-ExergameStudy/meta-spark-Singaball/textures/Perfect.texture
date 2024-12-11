@@ -1,0 +1,36 @@
+{
+  "modelName": "texture",
+  "name": "Perfect",
+  "identifier": "texture:3124122-270e3755-2cc4-432c-bfc1-b1d4bccb216b",
+  "alphaPremultiplicationMode": "should_premultiply",
+  "assetDataHash": "fa5264365dff6e57bfd517fd8c5c5f74",
+  "assetLocator": "textures/Perfect.png",
+  "colorEncoding": "linear",
+  "compressionQuality": "high",
+  "coordMapping": "none",
+  "excludeDuringExport": false,
+  "excludeFromPackage": false,
+  "filter": "bilinear",
+  "hasOfflineMipmaps": false,
+  "height": 300,
+  "importIssues": {},
+  "isExternalAsset": true,
+  "smartTextureTargetSizeLimit": "largest",
+  "targetSize": "largest",
+  "uWrapMode": "clamp",
+  "vWrapMode": "clamp",
+  "width": 512,
+  "children": [
+    {
+      "modelName": "data_texture_metadata_model",
+      "name": "data_texture_metadata_model0",
+      "assetDataHash": "fa5264365dff6e57bfd517fd8c5c5f74",
+      "colorCount": 23488,
+      "detectedAlphaChannel": "eight_bit_full_range",
+      "detectedOriginalFormat": "png",
+      "entropyOfDistribution": 7.176364288763434,
+      "pixelsHigh": 300,
+      "pixelsWide": 512
+    }
+  ]
+}

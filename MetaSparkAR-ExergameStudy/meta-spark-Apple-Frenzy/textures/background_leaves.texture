@@ -1,0 +1,36 @@
+{
+  "modelName": "texture",
+  "name": "background_leaves",
+  "identifier": "texture:79441-2799c80f-30fc-404a-9767-242d7de7c12d",
+  "alphaPremultiplicationMode": "should_premultiply",
+  "assetDataHash": "db9b3e116de9cf8e4c9497ab9b9dcb3c",
+  "assetLocator": "textures/background_leaves.png",
+  "colorEncoding": "linear",
+  "compressionQuality": "high",
+  "coordMapping": "none",
+  "excludeDuringExport": false,
+  "excludeFromPackage": false,
+  "filter": "bilinear",
+  "hasOfflineMipmaps": false,
+  "height": 576,
+  "importIssues": {},
+  "isExternalAsset": true,
+  "smartTextureTargetSizeLimit": "largest",
+  "targetSize": "largest",
+  "uWrapMode": "clamp",
+  "vWrapMode": "clamp",
+  "width": 1024,
+  "children": [
+    {
+      "modelName": "data_texture_metadata_model",
+      "name": "data_texture_metadata_model0",
+      "assetDataHash": "db9b3e116de9cf8e4c9497ab9b9dcb3c",
+      "colorCount": 1380,
+      "detectedAlphaChannel": "eight_bit_full_range",
+      "detectedOriginalFormat": "png",
+      "entropyOfDistribution": 2.2944907086587696,
+      "pixelsHigh": 576,
+      "pixelsWide": 1024
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "modelName": "texture",
+  "name": "Night Plank",
+  "identifier": "texture:1680494-117de1a8-3dd5-4251-9501-202696ce1a8b",
+  "alphaPremultiplicationMode": "should_premultiply",
+  "assetDataHash": "e698740c9ed79c6cb71da4a8baf3b336",
+  "assetLocator": "textures/Night Plank(1).png",
+  "colorEncoding": "linear",
+  "compressionQuality": "high",
+  "coordMapping": "none",
+  "excludeDuringExport": false,
+  "excludeFromPackage": false,
+  "filter": "bilinear",
+  "hasOfflineMipmaps": false,
+  "height": 256,
+  "importIssues": {},
+  "isExternalAsset": true,
+  "smartTextureTargetSizeLimit": "largest",
+  "targetSize": "largest",
+  "uWrapMode": "clamp",
+  "vWrapMode": "clamp",
+  "width": 32,
+  "children": [
+    {
+      "modelName": "data_texture_metadata_model",
+      "name": "data_texture_metadata_model0",
+      "assetDataHash": "e698740c9ed79c6cb71da4a8baf3b336",
+      "colorCount": 955,
+      "detectedAlphaChannel": "eight_bit_full_range",
+      "detectedOriginalFormat": "png",
+      "entropyOfDistribution": 6.273696712323252,
+      "pixelsHigh": 256,
+      "pixelsWide": 32
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "modelName": "texture",
+  "name": "UI",
+  "identifier": "texture:193463-cb12e0d4-21e7-484a-8a11-132221e42fb2",
+  "alphaPremultiplicationMode": "should_premultiply",
+  "assetDataHash": "974c5d11d20731fd4520c4ceb1f99ca1",
+  "assetLocator": "textures/UI.png",
+  "colorEncoding": "linear",
+  "compressionQuality": "high",
+  "coordMapping": "none",
+  "excludeDuringExport": false,
+  "excludeFromPackage": false,
+  "filter": "bilinear",
+  "hasOfflineMipmaps": false,
+  "height": 93,
+  "importIssues": {},
+  "isExternalAsset": true,
+  "smartTextureTargetSizeLimit": "largest",
+  "targetSize": "largest",
+  "uWrapMode": "clamp",
+  "vWrapMode": "clamp",
+  "width": 317,
+  "children": [
+    {
+      "modelName": "data_texture_metadata_model",
+      "name": "data_texture_metadata_model0",
+      "assetDataHash": "974c5d11d20731fd4520c4ceb1f99ca1",
+      "colorCount": 3048,
+      "detectedAlphaChannel": "eight_bit_full_range",
+      "detectedOriginalFormat": "png",
+      "entropyOfDistribution": 5.799371247652761,
+      "pixelsHigh": 93,
+      "pixelsWide": 317
+    }
+  ]
+}

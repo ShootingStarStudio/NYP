@@ -1,0 +1,36 @@
+{
+  "modelName": "texture",
+  "name": "Timer",
+  "identifier": "texture:960039-37294422-3620-4db2-a81a-e9cc928c4346",
+  "alphaPremultiplicationMode": "should_premultiply",
+  "assetDataHash": "a385524faae87825f813fb321b2a0f13",
+  "assetLocator": "textures/Timer.png",
+  "colorEncoding": "linear",
+  "compressionQuality": "high",
+  "coordMapping": "none",
+  "excludeDuringExport": false,
+  "excludeFromPackage": false,
+  "filter": "bilinear",
+  "hasOfflineMipmaps": false,
+  "height": 512,
+  "importIssues": {},
+  "isExternalAsset": true,
+  "smartTextureTargetSizeLimit": "largest",
+  "targetSize": "largest",
+  "uWrapMode": "clamp",
+  "vWrapMode": "clamp",
+  "width": 512,
+  "children": [
+    {
+      "modelName": "data_texture_metadata_model",
+      "name": "data_texture_metadata_model0",
+      "assetDataHash": "a385524faae87825f813fb321b2a0f13",
+      "colorCount": 3109,
+      "detectedAlphaChannel": "eight_bit_full_range",
+      "detectedOriginalFormat": "png",
+      "entropyOfDistribution": 3.3006147712820613,
+      "pixelsHigh": 512,
+      "pixelsWide": 512
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "modelName": "texture",
+  "name": "Left",
+  "identifier": "texture:447954-4cb4f74c-75d7-4160-a28d-0517717e970f",
+  "alphaPremultiplicationMode": "should_premultiply",
+  "assetDataHash": "e31d771623920d9c3a81a9c173437825",
+  "assetLocator": "textures/Left.png",
+  "colorEncoding": "linear",
+  "compressionQuality": "high",
+  "coordMapping": "none",
+  "excludeDuringExport": false,
+  "excludeFromPackage": false,
+  "filter": "bilinear",
+  "hasOfflineMipmaps": false,
+  "height": 128,
+  "importIssues": {},
+  "isExternalAsset": true,
+  "smartTextureTargetSizeLimit": "largest",
+  "targetSize": "largest",
+  "uWrapMode": "clamp",
+  "vWrapMode": "clamp",
+  "width": 128,
+  "children": [
+    {
+      "modelName": "data_texture_metadata_model",
+      "name": "data_texture_metadata_model0",
+      "assetDataHash": "e31d771623920d9c3a81a9c173437825",
+      "colorCount": 1098,
+      "detectedAlphaChannel": "eight_bit_full_range",
+      "detectedOriginalFormat": "png",
+      "entropyOfDistribution": 3.999922828691132,
+      "pixelsHigh": 128,
+      "pixelsWide": 128
+    }
+  ]
+}

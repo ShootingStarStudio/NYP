@@ -1,0 +1,36 @@
+{
+  "modelName": "texture",
+  "name": "wooden board",
+  "identifier": "texture:8526472-e3472da2-a889-4868-98ef-6ac68f17004f",
+  "alphaPremultiplicationMode": "should_premultiply",
+  "assetDataHash": "adef7195ec44876640e9ad80bd4fc76d",
+  "assetLocator": "textures/wooden board.png",
+  "colorEncoding": "linear",
+  "compressionQuality": "high",
+  "coordMapping": "none",
+  "excludeDuringExport": false,
+  "excludeFromPackage": false,
+  "filter": "bilinear",
+  "hasOfflineMipmaps": false,
+  "height": 497,
+  "importIssues": {},
+  "isExternalAsset": true,
+  "smartTextureTargetSizeLimit": "largest",
+  "targetSize": "largest",
+  "uWrapMode": "clamp",
+  "vWrapMode": "clamp",
+  "width": 753,
+  "children": [
+    {
+      "modelName": "data_texture_metadata_model",
+      "name": "data_texture_metadata_model0",
+      "assetDataHash": "adef7195ec44876640e9ad80bd4fc76d",
+      "colorCount": 4941,
+      "detectedAlphaChannel": "eight_bit_full_range",
+      "detectedOriginalFormat": "png",
+      "entropyOfDistribution": 6.929426409418442,
+      "pixelsHigh": 497,
+      "pixelsWide": 753
+    }
+  ]
+}

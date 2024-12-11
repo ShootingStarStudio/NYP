@@ -1,0 +1,36 @@
+{
+  "modelName": "texture",
+  "name": "BossIDLE",
+  "identifier": "texture:337156-103c07dd-50d9-4e23-bbd1-64542dac328d",
+  "alphaPremultiplicationMode": "should_premultiply",
+  "assetDataHash": "0d668cec7ad472125ba746287381734c",
+  "assetLocator": "textures/idle.png",
+  "colorEncoding": "linear",
+  "compressionQuality": "high",
+  "coordMapping": "none",
+  "excludeDuringExport": false,
+  "excludeFromPackage": false,
+  "filter": "bilinear",
+  "hasOfflineMipmaps": false,
+  "height": 417,
+  "importIssues": {},
+  "isExternalAsset": true,
+  "smartTextureTargetSizeLimit": "largest",
+  "targetSize": "largest",
+  "uWrapMode": "clamp",
+  "vWrapMode": "clamp",
+  "width": 324,
+  "children": [
+    {
+      "modelName": "data_texture_metadata_model",
+      "name": "data_texture_metadata_model0",
+      "assetDataHash": "0d668cec7ad472125ba746287381734c",
+      "colorCount": 2288,
+      "detectedAlphaChannel": "eight_bit_full_range",
+      "detectedOriginalFormat": "png",
+      "entropyOfDistribution": 4.002593868905141,
+      "pixelsHigh": 417,
+      "pixelsWide": 324
+    }
+  ]
+}
