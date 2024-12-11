@@ -1,0 +1,49 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 848409ee8ba454f42a5ddff137688a27, type: 3}
+  m_Name: ReferenceImageLibrary
+  m_EditorClassIdentifier: 
+  m_GuidLow: 5331929872246825664
+  m_GuidHigh: 15518752597495088814
+  m_DataStore:
+    m_Storage: []
+  m_Images:
+  - m_SerializedGuid:
+      m_GuidLow: 5462009224877275672
+      m_GuidHigh: 4829414990290891158
+    m_SerializedTextureGuid:
+      m_GuidLow: 1482965587257384246
+      m_GuidHigh: 9682315893208205816
+    m_Size: {x: 0, y: 0}
+    m_SpecifySize: 0
+    m_Name: ResourceBoulder
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 4687377076528870642
+      m_GuidHigh: 5809929621365114797
+    m_SerializedTextureGuid:
+      m_GuidLow: 18204769063132607410
+      m_GuidHigh: 5619662750690044297
+    m_Size: {x: 0, y: 0}
+    m_SpecifySize: 0
+    m_Name: ResourceMossyDirt
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 4710366058534490146
+      m_GuidHigh: 7585572344224577949
+    m_SerializedTextureGuid:
+      m_GuidLow: 10837049305684541036
+      m_GuidHigh: 14817838472443755898
+    m_Size: {x: 0, y: 0}
+    m_SpecifySize: 0
+    m_Name: ResourceTree
+    m_Texture: {fileID: 0}
