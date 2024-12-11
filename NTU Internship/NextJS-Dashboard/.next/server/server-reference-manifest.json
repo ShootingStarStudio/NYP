@@ -1,0 +1,70 @@
+{
+  "node": {
+    "b37e9b19a4ef5a12371dd29a9667d6a9ef593c44": {
+      "workers": {
+        "app/dashboard/sessions/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5Cwinst%5C%5Csource%5C%5Crepos%5C%5CNextJS-Dashboard%5C%5Capp%5C%5Clib%5C%5Cactions.ts%22%2C%5B%22updateSession%22%2C%22deleteSession%22%2C%22createSession%22%2C%22authenticate%22%5D%5D%2C%5B%22C%3A%5C%5CUsers%5C%5Cwinst%5C%5Csource%5C%5Crepos%5C%5CNextJS-Dashboard%5C%5Capp%5C%5Cui%5C%5Cdashboard%5C%5Csidenav.tsx%22%2C%5B%22%24%24ACTION_1%22%5D%5D%5D&__client_imported__=!",
+        "app/dashboard/participants/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5Cwinst%5C%5Csource%5C%5Crepos%5C%5CNextJS-Dashboard%5C%5Capp%5C%5Cui%5C%5Cdashboard%5C%5Csidenav.tsx%22%2C%5B%22%24%24ACTION_1%22%5D%5D%5D&__client_imported__=!",
+        "app/dashboard/sessions/create/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5Cwinst%5C%5Csource%5C%5Crepos%5C%5CNextJS-Dashboard%5C%5Capp%5C%5Cui%5C%5Cdashboard%5C%5Csidenav.tsx%22%2C%5B%22%24%24ACTION_1%22%5D%5D%5D&__client_imported__=!",
+        "app/dashboard/(overview)/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5Cwinst%5C%5Csource%5C%5Crepos%5C%5CNextJS-Dashboard%5C%5Capp%5C%5Cui%5C%5Cdashboard%5C%5Csidenav.tsx%22%2C%5B%22%24%24ACTION_1%22%5D%5D%5D&__client_imported__=!",
+        "app/dashboard/sessions/[id]/edit/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5Cwinst%5C%5Csource%5C%5Crepos%5C%5CNextJS-Dashboard%5C%5Capp%5C%5Cui%5C%5Cdashboard%5C%5Csidenav.tsx%22%2C%5B%22%24%24ACTION_1%22%5D%5D%5D&__client_imported__=!"
+      },
+      "layer": {
+        "app/dashboard/sessions/page": "rsc",
+        "app/dashboard/participants/page": "rsc",
+        "app/dashboard/sessions/create/page": "rsc",
+        "app/dashboard/(overview)/page": "rsc",
+        "app/dashboard/sessions/[id]/edit/page": "rsc"
+      }
+    },
+    "bca61e123d661e1fa907314ba7135dd2f02cf514": {
+      "workers": {
+        "app/dashboard/sessions/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5Cwinst%5C%5Csource%5C%5Crepos%5C%5CNextJS-Dashboard%5C%5Capp%5C%5Clib%5C%5Cactions.ts%22%2C%5B%22updateSession%22%2C%22deleteSession%22%2C%22createSession%22%2C%22authenticate%22%5D%5D%2C%5B%22C%3A%5C%5CUsers%5C%5Cwinst%5C%5Csource%5C%5Crepos%5C%5CNextJS-Dashboard%5C%5Capp%5C%5Cui%5C%5Cdashboard%5C%5Csidenav.tsx%22%2C%5B%22%24%24ACTION_1%22%5D%5D%5D&__client_imported__=!",
+        "app/dashboard/sessions/create/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5Cwinst%5C%5Csource%5C%5Crepos%5C%5CNextJS-Dashboard%5C%5Capp%5C%5Clib%5C%5Cactions.ts%22%2C%5B%22createSession%22%2C%22deleteSession%22%2C%22updateSession%22%2C%22authenticate%22%5D%5D%5D&__client_imported__=true!",
+        "app/dashboard/sessions/[id]/edit/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5Cwinst%5C%5Csource%5C%5Crepos%5C%5CNextJS-Dashboard%5C%5Capp%5C%5Clib%5C%5Cactions.ts%22%2C%5B%22createSession%22%2C%22deleteSession%22%2C%22updateSession%22%2C%22authenticate%22%5D%5D%5D&__client_imported__=true!"
+      },
+      "layer": {
+        "app/dashboard/sessions/page": "rsc",
+        "app/dashboard/sessions/create/page": "action-browser",
+        "app/dashboard/sessions/[id]/edit/page": "action-browser"
+      }
+    },
+    "0ed8a0e033c8fa9e94e46f9f91a16112c6e7b7a2": {
+      "workers": {
+        "app/dashboard/sessions/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5Cwinst%5C%5Csource%5C%5Crepos%5C%5CNextJS-Dashboard%5C%5Capp%5C%5Clib%5C%5Cactions.ts%22%2C%5B%22updateSession%22%2C%22deleteSession%22%2C%22createSession%22%2C%22authenticate%22%5D%5D%2C%5B%22C%3A%5C%5CUsers%5C%5Cwinst%5C%5Csource%5C%5Crepos%5C%5CNextJS-Dashboard%5C%5Capp%5C%5Cui%5C%5Cdashboard%5C%5Csidenav.tsx%22%2C%5B%22%24%24ACTION_1%22%5D%5D%5D&__client_imported__=!",
+        "app/dashboard/sessions/create/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5Cwinst%5C%5Csource%5C%5Crepos%5C%5CNextJS-Dashboard%5C%5Capp%5C%5Clib%5C%5Cactions.ts%22%2C%5B%22createSession%22%2C%22deleteSession%22%2C%22updateSession%22%2C%22authenticate%22%5D%5D%5D&__client_imported__=true!",
+        "app/dashboard/sessions/[id]/edit/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5Cwinst%5C%5Csource%5C%5Crepos%5C%5CNextJS-Dashboard%5C%5Capp%5C%5Clib%5C%5Cactions.ts%22%2C%5B%22createSession%22%2C%22deleteSession%22%2C%22updateSession%22%2C%22authenticate%22%5D%5D%5D&__client_imported__=true!"
+      },
+      "layer": {
+        "app/dashboard/sessions/page": "rsc",
+        "app/dashboard/sessions/create/page": "action-browser",
+        "app/dashboard/sessions/[id]/edit/page": "action-browser"
+      }
+    },
+    "5f314772b26cc14ab82ca3f10a6b9028b70b2256": {
+      "workers": {
+        "app/dashboard/sessions/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5Cwinst%5C%5Csource%5C%5Crepos%5C%5CNextJS-Dashboard%5C%5Capp%5C%5Clib%5C%5Cactions.ts%22%2C%5B%22updateSession%22%2C%22deleteSession%22%2C%22createSession%22%2C%22authenticate%22%5D%5D%2C%5B%22C%3A%5C%5CUsers%5C%5Cwinst%5C%5Csource%5C%5Crepos%5C%5CNextJS-Dashboard%5C%5Capp%5C%5Cui%5C%5Cdashboard%5C%5Csidenav.tsx%22%2C%5B%22%24%24ACTION_1%22%5D%5D%5D&__client_imported__=!",
+        "app/dashboard/sessions/create/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5Cwinst%5C%5Csource%5C%5Crepos%5C%5CNextJS-Dashboard%5C%5Capp%5C%5Clib%5C%5Cactions.ts%22%2C%5B%22createSession%22%2C%22deleteSession%22%2C%22updateSession%22%2C%22authenticate%22%5D%5D%5D&__client_imported__=true!",
+        "app/dashboard/sessions/[id]/edit/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5Cwinst%5C%5Csource%5C%5Crepos%5C%5CNextJS-Dashboard%5C%5Capp%5C%5Clib%5C%5Cactions.ts%22%2C%5B%22createSession%22%2C%22deleteSession%22%2C%22updateSession%22%2C%22authenticate%22%5D%5D%5D&__client_imported__=true!"
+      },
+      "layer": {
+        "app/dashboard/sessions/page": "rsc",
+        "app/dashboard/sessions/create/page": "action-browser",
+        "app/dashboard/sessions/[id]/edit/page": "action-browser"
+      }
+    },
+    "c936746130372a274c0d8dc5a882fdd8418c8f6d": {
+      "workers": {
+        "app/dashboard/sessions/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5Cwinst%5C%5Csource%5C%5Crepos%5C%5CNextJS-Dashboard%5C%5Capp%5C%5Clib%5C%5Cactions.ts%22%2C%5B%22updateSession%22%2C%22deleteSession%22%2C%22createSession%22%2C%22authenticate%22%5D%5D%2C%5B%22C%3A%5C%5CUsers%5C%5Cwinst%5C%5Csource%5C%5Crepos%5C%5CNextJS-Dashboard%5C%5Capp%5C%5Cui%5C%5Cdashboard%5C%5Csidenav.tsx%22%2C%5B%22%24%24ACTION_1%22%5D%5D%5D&__client_imported__=!",
+        "app/dashboard/sessions/create/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5Cwinst%5C%5Csource%5C%5Crepos%5C%5CNextJS-Dashboard%5C%5Capp%5C%5Clib%5C%5Cactions.ts%22%2C%5B%22createSession%22%2C%22deleteSession%22%2C%22updateSession%22%2C%22authenticate%22%5D%5D%5D&__client_imported__=true!",
+        "app/dashboard/sessions/[id]/edit/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5Cwinst%5C%5Csource%5C%5Crepos%5C%5CNextJS-Dashboard%5C%5Capp%5C%5Clib%5C%5Cactions.ts%22%2C%5B%22createSession%22%2C%22deleteSession%22%2C%22updateSession%22%2C%22authenticate%22%5D%5D%5D&__client_imported__=true!"
+      },
+      "layer": {
+        "app/dashboard/sessions/page": "rsc",
+        "app/dashboard/sessions/create/page": "action-browser",
+        "app/dashboard/sessions/[id]/edit/page": "action-browser"
+      }
+    }
+  },
+  "edge": {},
+  "encryptionKey": "IoA8LWBqwSxyKlbi1FFiQx949EQGlm70RBufF5jJW7c="
+}
