@@ -1,0 +1,105 @@
+User interface meant to help progress the game through experience. 
+what do you feel when youre playing a game?
+do you feel lost when you look through the UI?
+Laggy?
+
+types of UI
+    diegetic
+        exist in game space and story
+        ammo counter and health bar on models
+    non-diegetic
+        does not appear within the game space nor in the story, UI solely for players
+        HP bar, mana bar
+    meta
+        exists in game story but does not in game space
+        viewable, tells the player information, non interactable
+        camera effects, blood splatter
+    spatial
+        does not exist in game story but exists in game space
+        guiding arrows to tell the player information, item name, target highlighting
+
+good UI is not talked about, but poor UI stands out
+
+UI is meant to help the user to interact with the game without the user going through a weird process
+
+UIUX for software/apps/webs VS for games
+    Ease of use VS Immersion
+
+visual perspective
+    matching the world setting of the game
+    easy to read and understand
+    keeping the fourth wall secure
+functional perspective
+    establish overall play flow
+    un-obstructive but accessible
+    supports what the game is trying to do
+
+contrast brings attention, makes the viewer focus on contrast before text
+contrast and readibility come hand in hand
+    gradient doesnt cover the text
+        changing colors do not draw attention away from text
+    text is not obstructed
+        no decorations
+        no distractions
+    moving and animations also bring attention
+    flat shapes and color
+    variation
+        curves
+        not the same colors
+
+placement of information
+    keeping information well managed
+    use size, color, common rules and alignment to ensure that required information is easily comprehended
+        main information and interactables should be larger and placed in the middle
+        supplementary items should be smaller and placed aside, as some people do not need/want to look at it.
+    distractions
+        people want to play their game, not look at information
+        UI must not obstruct or distract from actual Gameplay
+            always determine what is the most important information players need at a certain moment
+        most UI during game time is at the edges
+        color themes to allow the player to glance and understand
+            health is red, mana is blue, keep consistant
+        non-useful UI should disappear, fade out over time
+        immediate data should be contrasting and more accessible
+
+approaches to UIUX in games
+    visual aspects
+        does it look good
+        easy to read and understand
+        match the concept of your game
+    functional aspects
+        play flow smoothness
+        does it obstruct view
+        does it support the game
+
+objects > layout > flow
+    cohesive rules
+    players knows what to expect
+    understand, faster navigation
+
+working in the industry
+    what to expect as a UI artist
+        working with other UI artists
+        working wih artists of other disciplines
+        working with CG director
+        working with developers - game designers and programmers
+        producer and directors
+        other stakeholders
+    responsibilities of a UI artists
+        making the UI
+        talking to the designers and programmers to ensure UI functionality
+        convincing the designers and programmers to listen to you
+        helping the designers and programmers convince other people to listen to you
+        knowing when you should stop insisting that they should listen to you
+        ensuring that UI is implemented properly
+        checking specifications, making specifications
+        talking to other artists and departments for other stuff
+    skills of a UI artists
+        balancing cost and quality
+        understanding the entire game
+        maybe some other legal matters
+        ability to communicate and collaborate with different people
+        time management skills
+
+conclusion
+    start small but start thinking
